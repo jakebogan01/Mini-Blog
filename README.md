@@ -1,3 +1,6 @@
+## Mini React Blog
+<img src="https://raw.githubusercontent.com/jakebogan01/Mini-Blog/main/src/img/mini-blog.png">
+
 ## Details
 Simple miniy React blog using a local blog api. Designed with Tailwind CSS, with basic crud operations. This project uses, <a href="https://tailwindcss.com">Tailwind CSS</a>, and <a href="https://reactjs.org">React JS</a>.
 
